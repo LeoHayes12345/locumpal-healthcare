@@ -1,0 +1,18 @@
+{
+  "name": "locumpal",
+  "version": "2.0.0",
+  "description": "LocumPal - Healthcare Compliance Management Platform",
+  "scripts": {
+    "build": "echo 'Build completed - using pre-built dist files'",
+    "dev": "echo 'Development server not available in production build'",
+    "preview": "echo 'Preview not available in production build'"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
+
