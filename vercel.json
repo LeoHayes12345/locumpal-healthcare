@@ -12,7 +12,7 @@
   ],
   "routes": [
     {
-      "src": "/assets/(.*)",
+      "src": "/assets/(.* )",
       "headers": {
         "cache-control": "public, max-age=31536000, immutable"
       }
@@ -24,6 +24,5 @@
   ],
   "env": {
     "VITE_API_BASE_URL": "https://mzhyi8c1zo9v.manus.space"
-  },
+  }
 }
-
