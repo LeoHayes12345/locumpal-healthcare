@@ -25,10 +25,5 @@
   "env": {
     "VITE_API_BASE_URL": "https://mzhyi8c1zo9v.manus.space"
   },
-  "functions": {
-    "app/api/**/*.js": {
-      "runtime": "@vercel/node"
-    }
-  }
 }
 
